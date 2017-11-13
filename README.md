@@ -9,7 +9,9 @@ Refer to [this](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/
 
 ## PowerShell to Run Maintenance on VM's in RG in Parallel (multithreaded)
 - Run-Maintenance.ps1
-- Invoke-ScriptMultithreaded.ps1
+- Invoke-ScriptMultithreaded.ps1 (based on [this](Based on https://gallery.technet.microsoft.com/scriptcenter/Run-a-PowerShell-script-991c8a42))
 
 ## Presentation on Planned Maintenance Feature
 - azure-vm-update.pdf
+
+The [LICENSE](https://raw.githubusercontent.com/mariuszdotnet/azure-planned-maintenance/master/LICENSE) file applies to all files/scripts in this repository.
